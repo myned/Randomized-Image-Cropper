@@ -2,6 +2,7 @@ Randomized Image Cropper
 
 
 **REQUIREMENTS**
+
 Python 3.x
 Pillow
 
